@@ -45,7 +45,7 @@ const Board: React.FC<BoardProps> = ({ ctx, G, moves }) => {
     <StyledContainer>
       <Row>
         <Col xs={12} md={4}>
-          <StyledHeader>Mean-dice</StyledHeader>
+          <StyledHeader>Jigdise</StyledHeader>
           <StyledRow>
             <StyledCol xs={12}>
               {turnDetails}

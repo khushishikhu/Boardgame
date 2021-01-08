@@ -12,7 +12,7 @@ const Setup: React.FC<SetupProps> = ({ handleSelection }) => {
     <StyledContainer>
       <Row>
         <Col xs={12} md={4}>
-          <StyledHeader>JigDise</StyledHeader>
+          <StyledHeader>Jigdise</StyledHeader>
           <p>How many players?</p>
           <StyledButton onClick={() => handleSelection(1)}>1</StyledButton>
           <StyledButton onClick={() => handleSelection(2)}>2</StyledButton>

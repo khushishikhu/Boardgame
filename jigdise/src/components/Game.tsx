@@ -32,7 +32,7 @@ const createGame = (numberOfPlayers: number) => {
   const totalDice = 5;
 
   return {
-    name: 'Yatzy',
+    name: 'Jigdise',
     setup: () => {
       const players: Player[] = [];
       for (let p = 0; p < numberOfPlayers; p++) {
@@ -115,7 +115,7 @@ const createClient = (numberOfPlayers: number) => {
     game: createGame(numberOfPlayers),
     numPlayers: numberOfPlayers,
     board: Board,
-    debug: false
+    debug: false,
   });
 }
 
