@@ -24,17 +24,17 @@ Jigdise is a multiplayer dice game created using create-react app and bootstrap 
 * Clone the frok of your repo in the terminal
 
 * Open the Boardgame directory
- 
- ` cd Boardgame `
+   
+         cd Boardgame 
 
 * Go to the jigdise directory
  
- `cd jigdise`
+         cd jigdise
 
 * To install all the requirements run following command
  
- `npm install`
+         npm install
  
  * To start the development server, run the following command
   
-  `npm start`
+         npm start
