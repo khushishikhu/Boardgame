@@ -35,9 +35,7 @@ const StyledContainer = styled(Container)`
   margin-top: 1em;
 `
 
-const StyledHeader = styled.h1`
-  text-align: center;
-`;
+
 
 const StyledButton = styled(Button)`
   margin-right: 2em;
