@@ -6,3 +6,21 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+.mainheader{
+  margin-top: 20px;
+  font-size: 58px;
+  font-family: cursive;
+  color:aliceblue;
+  font-weight: bold;
+}
+.header1{
+  margin-top: 20px;
+  font-family: cursive;
+  color: aliceblue;
+  font-weight: bold;
+}
+.para1{
+  font-family: cursive;
+  font-size: 28px;
+  color: aliceblue;
+}
