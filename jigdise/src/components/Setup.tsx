@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button, Container, Row, Col } from 'react-bootstrap';
+import './Setup.css';
 import styled from 'styled-components';
 
 interface SetupProps {
@@ -9,16 +10,17 @@ interface SetupProps {
 const Setup: React.FC<SetupProps> = ({ handleSelection }) => {
 
   return (
+   
     <StyledContainer>
-      <Row>
+     <Row>
         <Col xs={12} md={4}>
-          <StyledHeader>Jigdise</StyledHeader>
+         <StyledHeader>JIGDISE</StyledHeader>
           <p>How many players?</p>
           <StyledButton onClick={() => handleSelection(1)}>1</StyledButton>
           <StyledButton onClick={() => handleSelection(2)}>2</StyledButton>
           <StyledButton onClick={() => handleSelection(3)}>3</StyledButton>
           <StyledButton onClick={() => handleSelection(4)}>4</StyledButton>
-        </Col>
+          </Col>
       </Row>
     </StyledContainer>
   );

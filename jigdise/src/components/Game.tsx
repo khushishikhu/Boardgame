@@ -1,4 +1,3 @@
-  
 import max from 'lodash/max';
 import Board from './Board';
 import { Player } from '../types/Player';
@@ -6,6 +5,7 @@ import { GameState } from '../types/GameState';
 import { ScoringCategory } from '../types/Scoring';
 import { ScoreCalculator } from '../utils/ScoreCalculator';
 import { GameContext } from '../types/GameContext';
+
 let BgReact = require('boardgame.io/react');
 
 const createInitialScores = () => {
