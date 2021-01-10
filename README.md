@@ -2,7 +2,7 @@
 
 ## About
 
-Jigdise is a multiplayer dice game created using create-react app and bootstrap, the game is our version of the popular game known as Yatzy. Jigdise is a multiplayer support game which can be played by maximum 4 players at a time.
+Jigdise is a multiplayer dice game created using create-react app and bootstrap, the game is our version of the popular English poker game known as Yatzy. Jigdise is a multiplayer support game which can be played by maximum 4 players at a time.
 
 ![image](https://user-images.githubusercontent.com/66299533/104089254-65694500-5293-11eb-93b1-3febcbef7eca.png)
 
@@ -41,5 +41,5 @@ Checkout the game [here](https://jigdise.vercel.app/)
   
          npm start
 
-## Demo Vedio
-Have a look on the [Demo Vedio](https://www.youtube.com/watch?v=e-ByVMXrbqI) of this game
+## Demo Video
+Have a look on the [Demo Video](https://www.youtube.com/watch?v=e-ByVMXrbqI) of this game
