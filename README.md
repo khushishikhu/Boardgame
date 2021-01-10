@@ -40,3 +40,6 @@ Checkout the game [here](https://jigdise.vercel.app/)
  * To start the development server, run the following command
   
          npm start
+
+## Demo Vedio
+Have a look on the demo[here](https://www.youtube.com/watch?v=e-ByVMXrbqI) of this game
