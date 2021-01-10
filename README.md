@@ -42,4 +42,4 @@ Checkout the game [here](https://jigdise.vercel.app/)
          npm start
 
 ## Demo Vedio
-Have a look on the demo[here](https://www.youtube.com/watch?v=e-ByVMXrbqI) of this game
+Have a look on the [Demo Vedio](https://www.youtube.com/watch?v=e-ByVMXrbqI) of this game
